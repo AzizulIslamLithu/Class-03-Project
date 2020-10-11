@@ -1,0 +1,154 @@
+body{
+	margin: 0
+}
+header{
+	background-image: url(../images/apn.jpg);
+	padding: 50px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: center;
+	background-blend-mode: initial;
+}
+.container{
+	width: 1000px;
+	margin:auto;
+	overflow: hidden;
+}
+.col-1{
+	width: 25%;
+	float: left;
+	color: white;
+}
+.col-2{
+	width: 75%;
+	float:left;
+	color: white;
+}
+h1{
+    font-size: 77px;
+    color: white;
+    margin: 0;
+}
+p{
+    font-size: 27px;
+    color: black;
+}
+a{}
+body{
+	margin: 0
+}
+header{
+	background-image: url(../images/apn.jpg);
+	padding: 200px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: center;
+	
+}
+.container{
+	width: 1000px;
+	margin:auto;
+	overflow: hidden;
+}
+.col-1{
+	width: 25%;
+	float: left;
+	color: white;
+}
+.col-2{
+	width: 75%;
+	float:left;
+	color: white;
+}
+h1{
+    font-size: 77px;
+    color: white;
+    margin: 0;
+    margin-top: 130px;
+}
+header p{
+    font-size: 20px;
+    color: #fff;
+}
+a{background: #ff0052eb;color: white;font-size: 25px;padding: 8px 40px;display: inline-block;text-decoration: none;
+	border-radius: 10px;
+}
+img{
+	/* max-width: 100px; */
+	width: 350px;
+	margin-left: auto;
+	display: block;
+}
+.about-pnp{
+    padding: 100px 0;
+    text-align: center;
+}
+.about-pnp h1{
+	color: black;
+}
+.about-pnp p{
+	padding-bottom: 20px;
+}
+.about-pnp b{
+ 	
+}
+.feature-section{
+    padding: 50px 0;
+    background: aqua;
+}
+.col-3{
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 0 50px;
+    box-sizing: border-box;
+}
+.feature-section h2{
+    color: #e20e21;
+    font-weight: 400;
+    font-size: 27px;
+}
+.feature-section p{
+    font-size: 27px;
+    color: black;
+    margin: 0;
+    margin-bottom: 30px;
+}
+.line{
+	border-right: 5px solid red;
+}
+footer{
+	background-image: url(../images/group.jpg);
+	padding: 50px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: center;
+	background-blend-mode: initial;
+}
+footer h3{
+
+color: white;
+
+font-size: 30px;
+}
+footer p{
+
+color: wheat;
+
+background: #00ff95eb;
+
+color: white;
+
+font-size: 25px;
+
+padding: 8px 40px;
+
+display: inline-block;
+
+text-decoration: none;
+
+border-radius: 10px;
+}
+footer a{
+	
+}
